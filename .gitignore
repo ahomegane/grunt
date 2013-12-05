@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+grunt/node_modules
+bower/bower_components
+.sass-cache
+.grunt-changed-file
+public/
